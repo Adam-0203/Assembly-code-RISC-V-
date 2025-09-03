@@ -1,6 +1,8 @@
 # Assembly Projects
 
-This repository contains **assembly code experiments** to explore low-level computing concepts.  
+This repository contains **assembly code experiments** to explore low-level computing concepts using **RISC-V architecture**.  
+An introduction to RISC-V can be found here: [RISC-V Venus Extension](https://marketplace.visualstudio.com/items?itemName=hm.riscv-venus)
+
 It covers:
 
 - Basic manipulations: registers, memory, arithmetic, and logic operations.  
